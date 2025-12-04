@@ -4,8 +4,8 @@ Phoenix is a modular, PyTorch-based framework designed for training, fine-tuning
 It provides an extensible research codebase for developing **physics-informed architectures**, **long-horizon prediction systems**, and **volumetric neural representations**, supporting backbones such as **Mamba-SSM** and **Transformers**.
 
 📄 **Preprint**  
-If you use Phoenix in academic or industrial research, please cite our preprint:  
-**"Phoenix: A Modular Framework for Learning from Physical Simulations"**, arXiv 2025.  
+If you use Phoenix in academic or industrial research, please cite our associated preprint:  
+**"Toward a Foundation Model for Partial Differential Equations Across Physics Domains"**, arXiv 2025.  
 https://arxiv.org/pdf/2511.21861
 
 
@@ -100,10 +100,10 @@ python phoenix/tools/visualize_vtk_preds.py
 If you use **Phoenix** in your work, please cite the preprint:
 
 ```bibtex
-@article{soares2025phoenix,
-  title   = {Phoenix: A Modular Framework for Learning from Physical Simulations},
-  author  = {Soares, Eduardo Almeida and collaborators},
-  journal = {arXiv preprint arXiv:2511.21861},
-  year    = {2025}
+@article{soares2025towards,
+  title={Towards a Foundation Model for Partial Differential Equations Across Physics Domains},
+  author={Soares, Eduardo and Brazil, Emilio Vital and Shirasuna, Victor and de Carvalho, Breno WSR and Malossi, Cristiano},
+  journal={arXiv preprint arXiv:2511.21861},
+  year={2025}
 }
 ```
